@@ -1,0 +1,21 @@
+C:\Users\Doug\AppData\Local\Temporary Projects\Jogo de Futeboll\bin\Debug\Jogo de Futeboll.exe.config
+C:\Users\Doug\Documents\Visual Studio 2012\Projects\Jogo de Futeboll\Jogo de Futeboll\bin\Debug\Jogo de Futeboll.exe.config
+C:\Users\Doug\Documents\Visual Studio 2012\Projects\Jogo de Futeboll\Jogo de Futeboll\bin\Debug\Jogo de Futeboll.exe
+C:\Users\Doug\Documents\Visual Studio 2012\Projects\Jogo de Futeboll\Jogo de Futeboll\bin\Debug\Jogo de Futeboll.pdb
+C:\Users\Doug\Documents\Visual Studio 2012\Projects\Jogo de Futeboll\Jogo de Futeboll\obj\Debug\Jogo de Futeboll.csprojResolveAssemblyReference.cache
+C:\Users\Doug\Documents\Visual Studio 2012\Projects\Jogo de Futeboll\Jogo de Futeboll\obj\Debug\Jogo_de_Futeboll.Form1.resources
+C:\Users\Doug\Documents\Visual Studio 2012\Projects\Jogo de Futeboll\Jogo de Futeboll\obj\Debug\Jogo_de_Futeboll.Properties.Resources.resources
+C:\Users\Doug\Documents\Visual Studio 2012\Projects\Jogo de Futeboll\Jogo de Futeboll\obj\Debug\Jogo de Futeboll.csproj.GenerateResource.Cache
+C:\Users\Doug\Documents\Visual Studio 2012\Projects\Jogo de Futeboll\Jogo de Futeboll\obj\Debug\Jogo de Futeboll.exe
+C:\Users\Doug\Documents\Visual Studio 2012\Projects\Jogo de Futeboll\Jogo de Futeboll\obj\Debug\Jogo de Futeboll.pdb
+C:\Users\Doug\Documents\Visual Studio 2012\Projects\Jogo de Futeboll\Jogo de Futeboll\obj\Debug\Jogo_de_Futeboll.frmAddTime.resources
+C:\Users\Doug\Documents\Visual Studio 2012\Projects\Jogo de Futeboll\Jogo-De-Futebol\Jogo de Futeboll\bin\Debug\Jogo de Futeboll.exe.config
+C:\Users\Doug\Documents\Visual Studio 2012\Projects\Jogo de Futeboll\Jogo-De-Futebol\Jogo de Futeboll\obj\Debug\Jogo de Futeboll.exe
+C:\Users\Doug\Documents\Visual Studio 2012\Projects\Jogo de Futeboll\Jogo-De-Futebol\Jogo de Futeboll\obj\Debug\Jogo de Futeboll.pdb
+C:\Users\Doug\Documents\Visual Studio 2012\Projects\Jogo de Futeboll\Jogo-De-Futebol\Jogo de Futeboll\bin\Debug\Jogo de Futeboll.exe
+C:\Users\Doug\Documents\Visual Studio 2012\Projects\Jogo de Futeboll\Jogo-De-Futebol\Jogo de Futeboll\bin\Debug\Jogo de Futeboll.pdb
+C:\Users\Doug\Documents\Visual Studio 2012\Projects\Jogo de Futeboll\Jogo-De-Futebol\Jogo de Futeboll\obj\Debug\Jogo de Futeboll.csprojResolveAssemblyReference.cache
+C:\Users\Doug\Documents\Visual Studio 2012\Projects\Jogo de Futeboll\Jogo-De-Futebol\Jogo de Futeboll\obj\Debug\Jogo_de_Futeboll.Form1.resources
+C:\Users\Doug\Documents\Visual Studio 2012\Projects\Jogo de Futeboll\Jogo-De-Futebol\Jogo de Futeboll\obj\Debug\Jogo_de_Futeboll.frmAddTime.resources
+C:\Users\Doug\Documents\Visual Studio 2012\Projects\Jogo de Futeboll\Jogo-De-Futebol\Jogo de Futeboll\obj\Debug\Jogo_de_Futeboll.Properties.Resources.resources
+C:\Users\Doug\Documents\Visual Studio 2012\Projects\Jogo de Futeboll\Jogo-De-Futebol\Jogo de Futeboll\obj\Debug\Jogo de Futeboll.csproj.GenerateResource.Cache
