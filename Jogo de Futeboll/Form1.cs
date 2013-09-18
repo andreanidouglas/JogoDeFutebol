@@ -31,11 +31,17 @@ namespace Jogo_de_Futeboll
         private void button1_Click(object sender, EventArgs e)
         {
             frmAddTime form = new frmAddTime();
-            form.Show();
+            form.ShowDialog();
+            if (form.finishSucessfull)
+            {
+                lblNumeroTimes.Text = (Convert.ToInt32(lblNumeroTimes.Text) + 1).ToString();
+              
+            }
         }
         internal static void addTime(Times time)
         {
             timesList.Add(time);
+            
         }
 
         private void btnIniciar_Click(object sender, EventArgs e)

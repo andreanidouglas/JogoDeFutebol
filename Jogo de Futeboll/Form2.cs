@@ -16,10 +16,11 @@ namespace Jogo_de_Futeboll
         {
             InitializeComponent();
         }
-
+        public bool finishSucessfull = false;
+        internal Times time = new Times();
         private void btnAdd_Click(object sender, EventArgs e)
         {
-            Times time = new Times();
+            
             try
             {
                 time.NomeTime = tdbtNome.Text;
@@ -27,8 +28,8 @@ namespace Jogo_de_Futeboll
                 time.forcaDefesa = Convert.ToInt32(tdbtDefesa.Text);
                 Form1.addTime(time);
                 MessageBox.Show("Time Adcionado com sucesso", "Importante", MessageBoxButtons.OK, MessageBoxIcon.Asterisk);
-                
-                this.Dispose();
+                finishSucessfull = true;
+                this.Close();
             }
             catch (Exception wee)
             {
