@@ -8,7 +8,7 @@ namespace Jogo_de_Futeboll
     {
         public Times IniciarPartida(Times timeCasa, Times timeVisitante)
         {
-            double CoeficienteJogo = (new Random().NextDouble() * timeCasa.CoeficienteDePartida())-timeVisitante.CoeficienteDePartida();
+            double CoeficienteJogo = (timeCasa.CoeficienteDePartida())*timeVisitante.CoeficienteDePartida();
             int CoeficieteDeSorte = new Random().Next(10);
             if ((CoeficieteDeSorte * CoeficienteJogo) % 3 == 0)
             {
@@ -33,7 +33,7 @@ namespace Jogo_de_Futeboll
                 for (int j = TimesB.Count - 1; j >= 0; j--)
                 {
                     TimeVencedor = IniciarPartida(times[i], TimesB[j]);
-                    if (TimeVencedor.NomeTime == "")
+                    if (TimeVencedor.NomeTime == null)
                     {
                         times[i].NumeroDePontos++;
                         TimesB[j].NumeroDePontos++;

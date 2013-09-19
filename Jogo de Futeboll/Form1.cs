@@ -37,6 +37,7 @@ namespace Jogo_de_Futeboll
                 lblNumeroTimes.Text = (Convert.ToInt32(lblNumeroTimes.Text) + 1).ToString();
               
             }
+            listView1.Items.Add(form.time.NomeTime);
         }
         internal static void addTime(Times time)
         {
@@ -46,9 +47,16 @@ namespace Jogo_de_Futeboll
 
         private void btnIniciar_Click(object sender, EventArgs e)
         {
-            Partida novoCampeonato = new Partida();
-            Times campeao = novoCampeonato.Campeonato(timesList);
-            MessageBox.Show("O time campeão foi: " + campeao.NomeTime);
+            if (lblNumeroTimes.Text == "0" || lblNumeroTimes.Text == "1")
+            {
+                MessageBox.Show("Não é possivel começar o campeonato\nVerifique o numero de Times!");
+            }
+            else
+            {
+                Partida novoCampeonato = new Partida();
+                Times campeao = novoCampeonato.Campeonato(timesList);
+                MessageBox.Show("O time campeão foi: " + campeao.NomeTime + "\nNúmero de Pontos: " + campeao.NumeroDePontos);
+            }
         }
     }
 }

@@ -80,7 +80,7 @@
             this.tdbtNome.Location = new System.Drawing.Point(135, 53);
             this.tdbtNome.Name = "tdbtNome";
             this.tdbtNome.Size = new System.Drawing.Size(145, 22);
-            this.tdbtNome.TabIndex = 2;
+            this.tdbtNome.TabIndex = 0;
             // 
             // tdbtDefesa
             // 
@@ -94,7 +94,7 @@
             this.tdbtAtaque.Location = new System.Drawing.Point(135, 78);
             this.tdbtAtaque.Name = "tdbtAtaque";
             this.tdbtAtaque.Size = new System.Drawing.Size(145, 22);
-            this.tdbtAtaque.TabIndex = 2;
+            this.tdbtAtaque.TabIndex = 1;
             // 
             // btnAdd
             // 
